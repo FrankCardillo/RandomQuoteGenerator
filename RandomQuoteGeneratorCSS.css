@@ -1,0 +1,45 @@
+.myBody { 
+  background: url('http://freesoftwarekit.com/server13/photos/ACrGV6OpXAk43M~/94120_Background-kierun-webpage-comley-storyteller-charlotte_1024x768.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.header {
+  font-size: 70px;
+  text-align: center;
+  font-family: Lobster;
+  color: #57679C;
+  text-decoration: underline;
+}
+.aboutParagraph {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 40px;
+  font-family: Noto Serif;
+  color: #663366;
+}
+.myButton {
+  font-size: 30px;
+  font-family: Lobster;
+  color: #57679C;
+  margin-top: 150px;
+  background-color: #6C99DB;
+  border-radius: 25px;
+}
+.hoverButton {
+  font-size: 30px;
+  font-family: Lobster;
+  color: #57679C;
+  margin-top: 150px;
+  border-radius: 25px;
+  background-color: #76FFD2;
+}
+.quoteBox {
+  font-size: 40px;
+  font-family: Noto Serif;
+  color: #663366;
+  border: 3px solid;
+  margin-top: 100px;
+  border-radius: 25px;
+}
